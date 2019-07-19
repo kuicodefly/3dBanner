@@ -77,3 +77,4 @@ function play() {
         initalCarousel();
     }, 1000);
 }
+play();
